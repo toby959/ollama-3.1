@@ -249,7 +249,7 @@ public class Llama31Application {
 
 ___
 # Imagenes:
-![Imagen frontend](imagen-frontend.png)
+![Imagen Weatherapi](imagen-weatherapi.png)
 ___
 # Observación, para poder hacer uso se debe levantar el servicio de intelliJ y en VSC desde la terminal se debe iniciar mediante el comando:
 ````
