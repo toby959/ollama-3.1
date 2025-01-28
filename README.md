@@ -123,7 +123,6 @@ ___
 
 ![Imagen Postman](imagen-postman-3.png)
 
-![Imagen Postman](imagen-postman.png)
 
 
 ___
